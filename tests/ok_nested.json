@@ -1,0 +1,8 @@
+{
+  "user": {"id": "u-1", "name": "Nathan"},
+  "roles": ["ADMIN","MOD","USER"],
+  "posts": [
+    {"id": "p1", "tags": ["zig","json"]},
+    {"id": "p2", "tags": []}
+  ]
+}

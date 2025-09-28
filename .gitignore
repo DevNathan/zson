@@ -1,0 +1,12 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor configs
+*.swp
+*.swo
+*.tmp
