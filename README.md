@@ -17,6 +17,9 @@
 ---
 
 ## Install
+Basically, Check out **Releases**. Binary file is on there.
+
+or
 
 Requires **Zig 0.13.0+**
 
