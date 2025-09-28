@@ -19,30 +19,6 @@
 ## Install
 Basically, Check out **Releases**. Binary file is on there.
 
-or
-
-Requires **Zig 0.13.0+**
-
-Clone and build:
-
-```bash
-git clone https://github.com/YOURNAME/zson.git
-cd zson
-zig build -Doptimize=ReleaseSafe
-```
-
-The binary will be located at:
-
-```bash
-./zig-out/bin/zson
-```
-
-Optionally, copy it into your PATH:
-
-```bash
-sudo cp zig-out/bin/zson /usr/local/bin/
-```
-
 ---
 
 ## Usage
